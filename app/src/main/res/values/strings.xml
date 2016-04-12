@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LazyLoading</string>
+    <string name="url_domian">Place Your Domain here</string>
+
+</resources>
